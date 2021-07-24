@@ -1,10 +1,10 @@
 ---
-title: "Blog"
+title: "Projects"
 subtitle: ""
-date: 2021-07-24T02:13:06+04:00
+date: 2021-07-24T15:57:46+04:00
 draft: true
 
-lastmod: 2021-07-24T02:13:06+04:00
+lastmod: 2021-07-24T15:57:46+04:00
 authors: [Benjamin]
 description: ""
 license: ""
@@ -60,6 +60,4 @@ seo:
   # ...
 ---
 
-TODO: This is where all my posts will be migrated.
-
-[Posts](/posts/)
+TODO: This is where I will add all my projects.

@@ -69,7 +69,7 @@ theme = "DoIt"
       shouldSort = true
       findAllMatches = true
       location = 0
-      threshold = 0.5
+      threshold = 0.3
       distance = 100
       ignoreLocation = true
       useExtendedSearch = false
@@ -146,9 +146,9 @@ theme = "DoIt"
       # The filepath is relative to the static or assets directory
       avatarURL = "/images/avatar.webp"
       #  title shown in home page (HTML format is supported)
-      title = "Homepage"
+      title = "ASleepyGuy"
       # subtitle shown in home page
-      subtitle = "This is My New Hugo Site"
+      subtitle = "It’s not a bug; it’s an undocumented feature. 😆"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
