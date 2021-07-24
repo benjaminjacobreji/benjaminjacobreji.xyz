@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - benjaminjacobreji</title>
+        <link>https://preview.benjaminjacobreji.xyz/posts/</link>
+        <description>All Posts | benjaminjacobreji</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>me@benjaminjacobreji.xyz (Benjamin Jacob Reji)</managingEditor>
+            <webMaster>me@benjaminjacobreji.xyz (Benjamin Jacob Reji)</webMaster><lastBuildDate>Sat, 24 Jul 2021 02:49:15 &#43;0400</lastBuildDate><atom:link href="https://preview.benjaminjacobreji.xyz/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Sample Post</title>
+    <link>https://preview.benjaminjacobreji.xyz/sample-post/</link>
+    <pubDate>Sat, 24 Jul 2021 02:49:15 &#43;0400</pubDate><author>
+            <name>Benjamin</name>
+            <uri>https://preview.benjaminjacobreji.xyz/authors/benjamin</uri><email>author@benjaminjacobreji.xyz</email></author><guid>https://preview.benjaminjacobreji.xyz/sample-post/</guid>
+    <description><![CDATA[Testing Purposes]]></description>
+</item></channel>
+</rss>
