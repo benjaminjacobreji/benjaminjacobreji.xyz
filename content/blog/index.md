@@ -2,7 +2,7 @@
 title: "Blog"
 subtitle: ""
 date: 2021-07-24T02:13:06+04:00
-draft: true
+draft: false
 
 lastmod: 2021-07-24T02:13:06+04:00
 authors: [Benjamin]

@@ -2,7 +2,7 @@
 title: "Sample Post"
 subtitle: ""
 date: 2021-07-24T02:49:15+04:00
-draft: true
+draft: false
 
 lastmod: 2021-07-24T02:49:15+04:00
 authors: [Benjamin]

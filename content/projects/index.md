@@ -2,7 +2,7 @@
 title: "Projects"
 subtitle: ""
 date: 2021-07-24T15:57:46+04:00
-draft: true
+draft: false
 
 lastmod: 2021-07-24T15:57:46+04:00
 authors: [Benjamin]
